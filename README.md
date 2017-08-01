@@ -1,2 +1,2 @@
-# M-todosPontosInterioresPy
-Implementações de diferentes Métodos de Pontos na linguagem de programação Python
+# MetodosPontosInterioresPy
+Implementações de diferentes Métodos de Pontos Interiores na linguagem de programação Python
